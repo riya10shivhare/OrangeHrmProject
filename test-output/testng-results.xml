@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-05T03:50:07Z" name="Default suite" finished-at="2022-08-05T03:50:53Z" duration-ms="46636">
+    <groups>
+    </groups>
+    <test started-at="2022-08-05T03:50:07Z" name="Default test" finished-at="2022-08-05T03:50:53Z" duration-ms="46636">
+      <class name="com.orangehrm.login.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangehrm.login.LoginTest@1e8b7643]" started-at="2022-08-05T03:50:07Z" name="setup" finished-at="2022-08-05T03:50:52Z" duration-ms="45413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUrl()[pri:0, instance:com.orangehrm.login.LoginTest@1e8b7643]" started-at="2022-08-05T03:50:52Z" name="verifyUrl" finished-at="2022-08-05T03:50:52Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.login.LoginTest@1e8b7643]" started-at="2022-08-05T03:50:52Z" name="tearDown" finished-at="2022-08-05T03:50:53Z" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangehrm.login.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
